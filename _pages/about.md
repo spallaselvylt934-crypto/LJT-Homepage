@@ -15,10 +15,10 @@ My research focuses on **natural language processing** and **machine learning**.
 
 # Academic Background
 
-- **Ph.D. in Computer Science (2024 - Present)**  
+- **Ph.D. in Computer Science (2024-Present)**  
   *Hong Kong University of Science and Technology (HKUST)*  
   First-year PhD candidate at HKUST NLP Group, supervised by Professor Junxian He.
-- **B.Eng. (2020 - 2024)**  
+- **B.Eng. (2020-2024)**  
   *Shanghai Jiao Tong University (SJTU)*  
   Graduated in June 2024. Previously advised by Professor Junxian He during undergraduate studies at SJTU.
 
@@ -28,10 +28,10 @@ My research focuses on **natural language processing** and **machine learning**.
 
 # Research Experience
 
-- **Research Intern** at **MINIMAX* (February 2025 - Present)
-- **Research Intern** at **Tencent WXG* (June 2024 - September 2024)  
+- **Research Intern** at **MINIMAX** (February 2025 - Present)
+- **Research Intern** at **Tencent WXG** (June 2024 - September 2024)  
   Advisor: **Zifei Shan** (Tencent WXG)
-- **Research Intern** at **Shanghai AI Lab* (June 2023 - December 2023)  
+- **Research Intern** at **Shanghai AI Lab** (June 2023 - December 2023)  
   Advisor: **Prof. Yu Cheng** (Professor associated with Shanghai AI Lab)
 
 # Skills
